@@ -1,0 +1,6 @@
+BOT_TOKEN = 'bot-token'  # This is the token of the bot user
+CLIENT_ID = 'client-id'  # The Client ID of the Discord App
+PREFIX = '%'  # Command prefix
+MIN_PLAYERS = 4  # Minimum amount of players for a game to start
+TIMER_LEN = 5  # Time, in MINUTES, for one game to last.
+WARNING_TIME = 15  # Time, in SECONDS, that the bot should warn until game end.
